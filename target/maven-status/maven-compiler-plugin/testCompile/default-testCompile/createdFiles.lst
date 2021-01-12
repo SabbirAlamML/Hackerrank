@@ -1,0 +1,4 @@
+com/hackerrank/stocktrade/TestSuite.class
+com/hackerrank/stocktrade/requests/TradesControllerTest.class
+com/hackerrank/stocktrade/requests/ResourcesControllerTest.class
+com/hackerrank/stocktrade/requests/NoResourcesTradesControllerTest.class
